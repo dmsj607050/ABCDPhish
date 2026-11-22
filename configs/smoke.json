@@ -1,0 +1,17 @@
+{
+  "encoder_backend": "lightweight",
+  "stage": "full",
+  "hidden_dim": 32,
+  "num_heads": 4,
+  "encoder_layers": 1,
+  "relation_layers": 1,
+  "num_queries": 2,
+  "url_max_length": 64,
+  "html_max_tokens": 128,
+  "max_dom_nodes": 32,
+  "max_targets": 2,
+  "image_size": 32,
+  "patch_size": 8,
+  "num_brands": 2,
+  "dropout": 0.0
+}

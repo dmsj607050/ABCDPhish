@@ -1,0 +1,16 @@
+{
+  "encoder_backend": "pretrained",
+  "stage": "full",
+  "hidden_dim": 256,
+  "num_heads": 8,
+  "encoder_layers": 1,
+  "relation_layers": 2,
+  "html_model_name": "answerdotai/ModernBERT-base",
+  "visual_model_name": "google/siglip2-base-patch16-224",
+  "html_max_tokens": 2048,
+  "max_dom_nodes": 256,
+  "image_size": 224,
+  "patch_size": 16,
+  "freeze_backbones": true,
+  "local_files_only": false
+}

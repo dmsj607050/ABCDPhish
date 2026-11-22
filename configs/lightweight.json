@@ -1,0 +1,14 @@
+{
+  "encoder_backend": "lightweight",
+  "stage": "full",
+  "hidden_dim": 128,
+  "num_heads": 4,
+  "encoder_layers": 2,
+  "relation_layers": 2,
+  "url_max_length": 256,
+  "html_max_tokens": 512,
+  "max_dom_nodes": 128,
+  "max_targets": 8,
+  "image_size": 224,
+  "patch_size": 16
+}
